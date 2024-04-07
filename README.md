@@ -1,2 +1,2 @@
 # html-portfolio-mark1
-First html website by me, trying github webhosting for the first time.
+First html website by me, testing github webhosting.
